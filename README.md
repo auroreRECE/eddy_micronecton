@@ -1,4 +1,6 @@
-# Eddy and mesopelagic project
+# Mesoscale oceanic eddies and forage fauna 
+
+Data and code for the "The not systematic oasis effect of oceanic eddies at global scale" article. 
 
 Here the scripts to overlap eddies and acoustic data and run analysis.
 
