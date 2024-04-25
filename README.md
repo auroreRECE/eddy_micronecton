@@ -13,7 +13,9 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicens
 
 This project is dedicated to study the impact of mesoscale eddies on
 forage fauna at global scale. This GitHub repository provides the code
-of the Receveur et al. (2024) publication in Nature Communication.
+of the Receveur et al. (2024) publication in Nature Communication. In
+this sutdy, we sample 1000 eddies spread in four ocean with active
+acoustic.
 
 ## Data sources
 
