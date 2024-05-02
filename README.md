@@ -7,6 +7,11 @@
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
 <!-- badges: end -->
 
+<!-- doi: start -->
+
+[![DOI](https://zenodo.org/badge/790190974.svg)](https://zenodo.org/doi/10.5281/zenodo.11103725)
+<!-- doi: end -->
+
 ![](figures/figure1_Paper.jpg)
 
 ## Overview
